@@ -1,3 +1,6 @@
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/JamesDun2866/WizEnvTechEx/badge)](https://scorecard.dev/viewer/?uri=github.com/JamesDun2866/WizEnvTechEx)
+
+
 # Docker
 A Dockerfile has been provided to run this application.  The default port exposed is 8080.
 
